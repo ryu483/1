@@ -1,3 +1,4 @@
+//% color="#34ebe1" icon="\uf06e" block="きょりセンサー"
 namespace distanceSensor {
 
     //% block="しょう害物とのきょり"
@@ -5,4 +6,3 @@ namespace distanceSensor {
         return pins.analogReadPin(AnalogReadWritePin.P2);
     }
 }
-
