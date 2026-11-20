@@ -1,4 +1,4 @@
-//% color="#ff6600" icon="\uf06e" block="きょりセンサー"
+//% color="#03fce3" icon="\uf06e" block="きょりセンサー"
 namespace distanceSensor {
 
     //% block="きょりセンサーの値"
